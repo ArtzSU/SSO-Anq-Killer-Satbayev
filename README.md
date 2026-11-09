@@ -8,4 +8,4 @@
 - Расширение для Chrome-based https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag
 
 ### Новые версии публикуются и тянутся из gist:
--https://gist.githubusercontent.com/ArtzSU/be3cb4c083bc87abe15ef5b79e107185/raw/anq-killer.user.js
+- https://gist.githubusercontent.com/ArtzSU/be3cb4c083bc87abe15ef5b79e107185/raw/anq-killer.user.js
